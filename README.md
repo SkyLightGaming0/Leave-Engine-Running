@@ -1,4 +1,4 @@
 # Leave-Engine-Running
 
 ``` Script keeps running ```
-``` Made by SkyLightFox ```
+Made by SkyLightFox
